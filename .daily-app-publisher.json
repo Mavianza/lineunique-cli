@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "request_date": "2026-10-29",
+  "repository": "lineunique-cli",
+  "payload_sha256": "69df5f8e316f88b6a76e02dd73c24c05b5acad2f477e7f58f1df4b2bab87459f",
+  "source_repository": "Mavianza/daily-app-publisher",
+  "source_commit": "5b6dc1d5490465c87fffb2b8909524525c8ebecd",
+  "source_run_url": "https://github.com/Mavianza/daily-app-publisher/actions/runs/40837580226",
+  "published_at": "2026-10-29T07:46:37.634809+00:00"
+}

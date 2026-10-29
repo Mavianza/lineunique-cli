@@ -1,0 +1,16 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "lineunique-cli"
+version = "1.0.0"
+description = "Hapus baris duplikat dari daftar teks UTF-8 dengan urutan tetap"
+requires-python = ">=3.10"
+dependencies = []
+
+[project.scripts]
+lineunique = "lineunique.cli:main"
+
+[tool.setuptools.packages.find]
+include = ["lineunique*"]
